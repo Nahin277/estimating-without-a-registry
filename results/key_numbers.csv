@@ -1,0 +1,20 @@
+"quantity","value"
+"GLOBOCAN 2024 all-age cases",9480
+"naive pooled share",0.0519132625937361
+"naive implied count",492.137729388618
+"posterior share (median)",0.0203133037222781
+"posterior share 95% CrI low",0.0126788283886641
+"posterior share 95% CrI high",0.0322924512665316
+"posterior count (median)",187.328769203659
+"posterior count 95% CrI low",94.9834300809294
+"posterior count 95% CrI high",362.890286294318
+"posterior rate per 100k",1.24885846135773
+"bound share low (tilt only)",0.01792477662171
+"bound share high (tilt only)",0.03521827355691
+"bound share low (tilt+noise)",0.0132941902640203
+"bound share high (tilt+noise)",0.0471206943798346
+"bound count low",169.92688237381
+"bound count high",333.869233319507
+"posterior tilt OR (median)",2.26020011545682
+"largest LOO shift (pp)",0.151423266020393
+"Rhat theta",1.00072433648368

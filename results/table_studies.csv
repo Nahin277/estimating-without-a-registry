@@ -1,0 +1,7 @@
+"study","n","x","source_type","p_hat"
+"Study A (tertiary, Dhaka)",34,2,"tertiary",0.0588235294117647
+"Study B (university hosp., Dhaka)",50,2,"tertiary",0.04
+"Study C (private hosp., Dhaka)",276,16,"private",0.0579710144927536
+"Study D (regional med. college)",120,5,"regional",0.0416666666666667
+"Study E (cancer institute)",210,9,"tertiary",0.0428571428571429
+"Study F (pathology lab series)",160,7,"pathology",0.04375
