@@ -278,9 +278,11 @@ There is one sentence from all of this that I think generalises far past breast 
 
 When you have a non-random sample and no external anchor, the honest output is not a point estimate with a small standard error. It is a range, plus an explicit statement of what you would have to believe to land anywhere in it. The best estimate is not the one with the tightest interval. It is the one whose target, observation process, transport assumptions and uncertainty are all written down where somebody can disagree with them.
 
-My friend is 28 and she is in treatment and she is doing okay.
+My friend is 28 years old. Right now, she is in treatment for breast cancer. She is recovering—struggling through the brutal reality of the therapy, but we are fiercely hopeful.
 
-Her country still cannot tell her how many women are going through the same thing this year. But it is not because the mathematics is impossible. It is because nobody has counted — and we can be exact about how much that costs us.
+Yet, if you ask how many other young women are sitting in the same waiting rooms, fighting the same battle in her country this year, the official channels go quiet. Her country cannot tell her.
+
+It is not because the mathematics of tracking a disease is impossible. It is simply because nobody has bothered to count. In public health, what we refuse to measure, we refuse to manage. We can now be exact about how much that structural silence costs us.
 
 ---
 
