@@ -171,7 +171,6 @@ The sampler is a forty-line random-walk Metropolis written out in base R rather 
 ├── make_tables_docx.py        builds tables_for_post.docx from the CSVs
 ├── tables_for_post.docx       nine formatted tables
 ├── medium_post.md             the post
-├── requirements.txt           python-docx, for the tables only
 └── README.md
 ```
 
