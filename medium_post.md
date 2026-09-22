@@ -196,7 +196,7 @@ logit(θ)   ~ Normal(m_regional, s_regional²)       # what regional registries 
 τ          ~ HalfNormal(0.5)
 ```
 
-I fitted this with a forty-line random-walk Metropolis sampler in base R, deliberately, rather than reaching for Stan. Not because Stan is bad — it is excellent — but because when the whole argument of your analysis is "be honest about where the answer comes from," it is worth being able to read every line of the machine that produces it.
+I fitted this with a forty-line random-walk Metropolis sampler in base R.
 
 The last step is the one that is most often skipped. GLOBOCAN's 9,480 is not a measurement. It is a borrowed estimate with no published interval. Multiplying a posterior share by it as though it were exact manufactures precision out of nothing. So give it a distribution too, and compute the count draw by draw:
 
